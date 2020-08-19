@@ -1,0 +1,13 @@
+:root {
+    --mainColor: #1777d8;
+    --secondaryColor: #e211bf;
+    --borderColor: #164D56;
+    --mainText: rgb(210, 221, 58);
+    --secondaryText: #eeeeee;
+    --themeDotBorder: #FFF;
+    --previewBg: rgb(25, 39, 52, 0.8);
+    --previewShadow: #a5c2df;
+    --buttonColor: #17a2b8;
+    background: #ff0000;
+    --image: url('images/pexels-vojtech-okenka-392018.jpg');
+}

@@ -1,0 +1,21 @@
+:root {
+    /* color with respect to theme */
+    --mainColor: green;
+    /* python-deve......... */
+    --secondaryColor: rgb(104, 228, 124);
+    /* about heading */
+    --borderColor: #37462d;
+    /* para text  */
+    --mainText: rgb(161, 65, 65);
+    /* section heading */
+    --secondaryText: #2b56a7;
+    /* portfolio discription heading hi and h6 */
+    --themeDotBorder: rgb(19, 22, 20);
+    /*  */
+    --previewBg: rgb(81, 90, 72, 0.8);
+    /* time line year */
+    --previewShadow: #2a2f25;
+    /*  .portfolio-description .cta*/
+    --buttonColor: #669966;
+    --image: url('images/pexels-stas-knop-3760323.jpg');
+}

@@ -1,0 +1,12 @@
+:root {
+    --mainColor: #935cb8;
+    --secondaryColor: #f2edf5;
+    --borderColor: #ca6eee;
+    --mainText: #fff;
+    --secondaryText: #e453d8;
+    --themeDotBorder: rgb(15, 17, 17);
+    --previewBg: rgba(234, 223, 238, 0.8);
+    --previewShadow: #40035a;
+    --buttonColor: #8534a3;
+    --image: url('images/pexels-negative-space-169573.jpg');
+}
